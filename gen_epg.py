@@ -29,8 +29,6 @@ channels = [
     ("demo.bbb.alt", ["Big Buck Bunny (Multi-Bitrate)", "BBB MB"]),
     ("demo.tos.hd",  ["Tears of Steel (HD)", "ToS HD"]),
     ("demo.live",    ["Live Test Channel", "Live"]),
-    ("demo.abr",     ["Apple BipBop (fMP4 ABR)", "ABR"]),
-    ("demo.16x9",    ["Apple BipBop (16x9)", "16x9"]),
 ]
 
 # (title, sub_title|None, desc, category)
@@ -64,18 +62,6 @@ pools = {
          "Continuous public HLS live test stream for verifying live playback.", "Technology"),
         ("Live Reference Loop", None,
          "24/7 reference live playout used for player and buffering tests.", "Technology"),
-    ],
-    "demo.abr": [
-        ("Apple BipBop (fMP4 ABR)", None,
-         "Apple's reference fMP4/CMAF HLS test stream with adaptive-bitrate variants.", "Technology"),
-        ("fMP4 Variant Ladder", None,
-         "Fragmented-MP4 (CMAF) HLS sample for verifying native fMP4 playback.", "Technology"),
-    ],
-    "demo.16x9": [
-        ("Apple BipBop (16x9)", None,
-         "Apple's reference TS HLS test stream using byte-range segments.", "Technology"),
-        ("Byte-Range Segment Demo", None,
-         "EXT-X-BYTERANGE-sliced TS HLS sample for verifying ranged segment playback.", "Technology"),
     ],
 }
 

@@ -17,7 +17,3 @@ https://test-streams.mux.dev/pts_shift/master.m3u8
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-id="demo.live" tvg-name="Live Test Channel" group-title="Test — Live",Live Test Channel
 https://demo.unified-streaming.com/k8s/live/scte35.isml/.m3u8
-#EXTINF:-1 tvg-id="demo.abr" tvg-name="Apple BipBop (fMP4 ABR — fix test)" group-title="Test — Apple (fix verification)",Apple BipBop (fMP4 ABR — fix test)
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-id="demo.16x9" tvg-name="Apple BipBop (16x9 byterange — fix test)" group-title="Test — Apple (fix verification)",Apple BipBop (16x9 byterange — fix test)
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
