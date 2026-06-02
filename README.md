@@ -22,11 +22,11 @@ All streams are public, license-clear test assets — nothing rights-encumbered:
 
 | Channel | Source |
 |---|---|
-| Apple BipBop (fMP4, ABR) | Apple developer HLS test streams |
-| Apple BipBop (TS, 16x9) | Apple developer HLS test streams |
 | Big Buck Bunny | Mux public test stream (Blender, CC-BY) |
-| Tears of Steel (subtitles) | Mux public test stream (Blender, CC-BY) |
-| Akamai Live Test Channel | Akamai public live test stream |
+| Tears of Steel | Mux public test stream (Blender, CC-BY) |
+| Big Buck Bunny (Multi-Bitrate) | Mux public test stream (Blender, CC-BY) |
+| Tears of Steel (HD) | Unified Streaming public demo (Blender, CC-BY) |
+| Live Test Channel | Unified Streaming public live demo |
 
 ## The EPG auto-refreshes daily
 

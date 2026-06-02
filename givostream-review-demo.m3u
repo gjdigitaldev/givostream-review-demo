@@ -1,20 +1,19 @@
 #EXTM3U
 # GiVo Stream — App Review demo playlist
 # License-clear sample streams for App Store review testing only.
-# Not bundled in or representative of the shipping app. Verified live.
+# Not bundled in or representative of the shipping app.
 #
 # Sources:
-#   - Apple official HLS developer test streams (developer.apple.com)
 #   - Mux public test streams (test-streams.mux.dev) — Blender open movies, CC-BY
-#   - Akamai public live test channel
+#   - Unified Streaming public demo streams (demo.unified-streaming.com)
 #
-#EXTINF:-1 tvg-id="test.apple.fmp4" tvg-name="Apple BipBop (fMP4, ABR)" group-title="Test — Adaptive / Variants",Apple BipBop (fMP4, ABR)
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-id="test.apple.ts" tvg-name="Apple BipBop (TS, 16x9)" group-title="Test — Adaptive / Variants",Apple BipBop (TS, 16x9)
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
-#EXTINF:-1 tvg-id="test.bbb" tvg-name="Big Buck Bunny (multi-bitrate VOD)" group-title="Test — VOD",Big Buck Bunny (multi-bitrate VOD)
+#EXTINF:-1 tvg-id="demo.bbb" tvg-name="Big Buck Bunny" group-title="Test — VOD",Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="test.tos.subs" tvg-name="Tears of Steel (with subtitles)" group-title="Test — VOD",Tears of Steel (with subtitles)
+#EXTINF:-1 tvg-id="demo.tos" tvg-name="Tears of Steel" group-title="Test — VOD",Tears of Steel
 https://test-streams.mux.dev/tos_ismc/main.m3u8
-#EXTINF:-1 tvg-id="test.live" tvg-name="Akamai Live Test Channel" group-title="Test — Live",Akamai Live Test Channel
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="demo.bbb.alt" tvg-name="Big Buck Bunny (Multi-Bitrate)" group-title="Test — Adaptive",Big Buck Bunny (Multi-Bitrate)
+https://test-streams.mux.dev/pts_shift/master.m3u8
+#EXTINF:-1 tvg-id="demo.tos.hd" tvg-name="Tears of Steel (HD)" group-title="Test — Adaptive",Tears of Steel (HD)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="demo.live" tvg-name="Live Test Channel" group-title="Test — Live",Live Test Channel
+https://demo.unified-streaming.com/k8s/live/scte35.isml/.m3u8

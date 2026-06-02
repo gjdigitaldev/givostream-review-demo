@@ -24,42 +24,40 @@ N_DAYS = 9            # yesterday + today + 7 ahead
 SLOT_HOURS = 2        # 12 programmes per channel per day
 
 channels = [
-    ("test.apple.fmp4", ["Apple BipBop (fMP4, ABR)", "Apple BipBop fMP4"]),
-    ("test.apple.ts",   ["Apple BipBop (TS, 16x9)", "Apple BipBop TS"]),
-    ("test.bbb",        ["Big Buck Bunny", "BBB Test"]),
-    ("test.tos.subs",   ["Tears of Steel (Subtitles)", "ToS Test"]),
-    ("test.live",       ["Akamai Live Test Channel", "Live Test"]),
+    ("demo.bbb",     ["Big Buck Bunny", "BBB"]),
+    ("demo.tos",     ["Tears of Steel", "ToS"]),
+    ("demo.bbb.alt", ["Big Buck Bunny (Multi-Bitrate)", "BBB MB"]),
+    ("demo.tos.hd",  ["Tears of Steel (HD)", "ToS HD"]),
+    ("demo.live",    ["Live Test Channel", "Live"]),
 ]
 
 # (title, sub_title|None, desc, category)
 pools = {
-    "test.apple.fmp4": [
-        ("BipBop Adaptive Stream", None,
-         "Apple's reference fMP4 HLS test stream, used to verify adaptive-bitrate switching across renditions.", "Technology"),
-        ("Variant Ladder Demo", None,
-         "Demonstrates multiple quality renditions within a single master playlist.", "Technology"),
-        ("fMP4 Segment Loop", None,
-         "Fragmented-MP4 segmented playback sample for HLS player testing.", "Technology"),
-    ],
-    "test.apple.ts": [
-        ("BipBop Transport Stream", None,
-         "MPEG-TS segmented HLS reference sample from Apple's developer streams.", "Technology"),
-        ("16x9 Variant Demo", None,
-         "Widescreen variant ladder for adaptive-bitrate testing.", "Technology"),
-    ],
-    "test.bbb": [
+    "demo.bbb": [
         ("Big Buck Bunny", "Open Movie",
          "Creative Commons (CC-BY) animated short produced by the Blender Foundation.", "Movie"),
         ("Blender Open Movie Showcase", None,
          "A selection of short films released by the Blender Foundation under Creative Commons.", "Animation"),
     ],
-    "test.tos.subs": [
+    "demo.tos": [
         ("Tears of Steel", "Project Mango",
-         "Creative Commons (CC-BY) science-fiction short by the Blender Foundation, carrying multiple subtitle tracks.", "Movie"),
-        ("Subtitle Track Demo", None,
-         "License-clear sample with several caption tracks for verifying subtitle rendering and selection.", "Technology"),
+         "Creative Commons (CC-BY) science-fiction short by the Blender Foundation.", "Movie"),
+        ("Sci-Fi Short Showcase", None,
+         "License-clear short film for verifying VOD playback and seeking.", "Movie"),
     ],
-    "test.live": [
+    "demo.bbb.alt": [
+        ("Big Buck Bunny (Adaptive)", None,
+         "Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.", "Technology"),
+        ("Variant Ladder Demo", None,
+         "Demonstrates multiple quality renditions within a single master playlist.", "Technology"),
+    ],
+    "demo.tos.hd": [
+        ("Tears of Steel (HD)", None,
+         "High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.", "Movie"),
+        ("HD Adaptive Demo", None,
+         "Widescreen variant ladder for adaptive-bitrate testing.", "Technology"),
+    ],
+    "demo.live": [
         ("Live Test Channel", None,
          "Continuous public HLS live test stream for verifying live playback.", "Technology"),
         ("Live Reference Loop", None,
