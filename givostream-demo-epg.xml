@@ -22,84 +22,10 @@
     <display-name lang="en">Live Test Channel</display-name>
     <display-name lang="en">Live</display-name>
   </channel>
-  <programme start="20260601000000 +0000" stop="20260601020000 +0000" channel="demo.bbb">
-    <title lang="en">Big Buck Bunny</title>
-    <sub-title lang="en">Open Movie</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-MA</value></rating>
-  </programme>
-  <programme start="20260601020000 +0000" stop="20260601040000 +0000" channel="demo.bbb">
-    <title lang="en">Blender Open Movie Showcase</title>
-    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
-    <category lang="en">Animation</category>
-    <rating system="VCHIP"><value>TV-MA</value></rating>
-  </programme>
-  <programme start="20260601040000 +0000" stop="20260601060000 +0000" channel="demo.bbb">
-    <title lang="en">Big Buck Bunny</title>
-    <sub-title lang="en">Open Movie</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-MA</value></rating>
-  </programme>
-  <programme start="20260601060000 +0000" stop="20260601080000 +0000" channel="demo.bbb">
-    <title lang="en">Blender Open Movie Showcase</title>
-    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
-    <category lang="en">Animation</category>
-    <rating system="VCHIP"><value>TV-Y</value></rating>
-  </programme>
-  <programme start="20260601080000 +0000" stop="20260601100000 +0000" channel="demo.bbb">
-    <title lang="en">Big Buck Bunny</title>
-    <sub-title lang="en">Open Movie</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-Y</value></rating>
-  </programme>
-  <programme start="20260601100000 +0000" stop="20260601120000 +0000" channel="demo.bbb">
-    <title lang="en">Blender Open Movie Showcase</title>
-    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
-    <category lang="en">Animation</category>
-    <rating system="VCHIP"><value>TV-PG</value></rating>
-  </programme>
-  <programme start="20260601120000 +0000" stop="20260601140000 +0000" channel="demo.bbb">
-    <title lang="en">Big Buck Bunny</title>
-    <sub-title lang="en">Open Movie</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-PG</value></rating>
-  </programme>
-  <programme start="20260601140000 +0000" stop="20260601160000 +0000" channel="demo.bbb">
-    <title lang="en">Blender Open Movie Showcase</title>
-    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
-    <category lang="en">Animation</category>
-    <rating system="VCHIP"><value>TV-PG</value></rating>
-  </programme>
-  <programme start="20260601160000 +0000" stop="20260601180000 +0000" channel="demo.bbb">
-    <title lang="en">Big Buck Bunny</title>
-    <sub-title lang="en">Open Movie</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-PG</value></rating>
-  </programme>
-  <programme start="20260601180000 +0000" stop="20260601200000 +0000" channel="demo.bbb">
-    <title lang="en">Blender Open Movie Showcase</title>
-    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
-    <category lang="en">Animation</category>
-    <rating system="VCHIP"><value>TV-14</value></rating>
-  </programme>
-  <programme start="20260601200000 +0000" stop="20260601220000 +0000" channel="demo.bbb">
-    <title lang="en">Big Buck Bunny</title>
-    <sub-title lang="en">Open Movie</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-14</value></rating>
-  </programme>
-  <programme start="20260601220000 +0000" stop="20260602000000 +0000" channel="demo.bbb">
-    <title lang="en">Blender Open Movie Showcase</title>
-    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
-    <category lang="en">Animation</category>
-    <rating system="VCHIP"><value>TV-MA</value></rating>
-  </programme>
+  <channel id="demo.cc608">
+    <display-name lang="en">CEA-608 Captions Test</display-name>
+    <display-name lang="en">CC Test</display-name>
+  </channel>
   <programme start="20260602000000 +0000" stop="20260602020000 +0000" channel="demo.bbb">
     <title lang="en">Big Buck Bunny</title>
     <sub-title lang="en">Open Movie</sub-title>
@@ -724,82 +650,82 @@
     <category lang="en">Animation</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601000000 +0000" stop="20260601020000 +0000" channel="demo.tos">
-    <title lang="en">Tears of Steel</title>
-    <sub-title lang="en">Project Mango</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
+  <programme start="20260610000000 +0000" stop="20260610020000 +0000" channel="demo.bbb">
+    <title lang="en">Big Buck Bunny</title>
+    <sub-title lang="en">Open Movie</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
     <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601020000 +0000" stop="20260601040000 +0000" channel="demo.tos">
-    <title lang="en">Sci-Fi Short Showcase</title>
-    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
+  <programme start="20260610020000 +0000" stop="20260610040000 +0000" channel="demo.bbb">
+    <title lang="en">Blender Open Movie Showcase</title>
+    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
+    <category lang="en">Animation</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260610040000 +0000" stop="20260610060000 +0000" channel="demo.bbb">
+    <title lang="en">Big Buck Bunny</title>
+    <sub-title lang="en">Open Movie</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
     <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601040000 +0000" stop="20260601060000 +0000" channel="demo.tos">
-    <title lang="en">Tears of Steel</title>
-    <sub-title lang="en">Project Mango</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-MA</value></rating>
+  <programme start="20260610060000 +0000" stop="20260610080000 +0000" channel="demo.bbb">
+    <title lang="en">Blender Open Movie Showcase</title>
+    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
+    <category lang="en">Animation</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
   </programme>
-  <programme start="20260601060000 +0000" stop="20260601080000 +0000" channel="demo.tos">
-    <title lang="en">Sci-Fi Short Showcase</title>
-    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
+  <programme start="20260610080000 +0000" stop="20260610100000 +0000" channel="demo.bbb">
+    <title lang="en">Big Buck Bunny</title>
+    <sub-title lang="en">Open Movie</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
     <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-Y</value></rating>
   </programme>
-  <programme start="20260601080000 +0000" stop="20260601100000 +0000" channel="demo.tos">
-    <title lang="en">Tears of Steel</title>
-    <sub-title lang="en">Project Mango</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-Y</value></rating>
+  <programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="demo.bbb">
+    <title lang="en">Blender Open Movie Showcase</title>
+    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
+    <category lang="en">Animation</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601100000 +0000" stop="20260601120000 +0000" channel="demo.tos">
-    <title lang="en">Sci-Fi Short Showcase</title>
-    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
+  <programme start="20260610120000 +0000" stop="20260610140000 +0000" channel="demo.bbb">
+    <title lang="en">Big Buck Bunny</title>
+    <sub-title lang="en">Open Movie</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
     <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601120000 +0000" stop="20260601140000 +0000" channel="demo.tos">
-    <title lang="en">Tears of Steel</title>
-    <sub-title lang="en">Project Mango</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
+  <programme start="20260610140000 +0000" stop="20260610160000 +0000" channel="demo.bbb">
+    <title lang="en">Blender Open Movie Showcase</title>
+    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
+    <category lang="en">Animation</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260610160000 +0000" stop="20260610180000 +0000" channel="demo.bbb">
+    <title lang="en">Big Buck Bunny</title>
+    <sub-title lang="en">Open Movie</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
     <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601140000 +0000" stop="20260601160000 +0000" channel="demo.tos">
-    <title lang="en">Sci-Fi Short Showcase</title>
-    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-PG</value></rating>
+  <programme start="20260610180000 +0000" stop="20260610200000 +0000" channel="demo.bbb">
+    <title lang="en">Blender Open Movie Showcase</title>
+    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
+    <category lang="en">Animation</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
   </programme>
-  <programme start="20260601160000 +0000" stop="20260601180000 +0000" channel="demo.tos">
-    <title lang="en">Tears of Steel</title>
-    <sub-title lang="en">Project Mango</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-PG</value></rating>
-  </programme>
-  <programme start="20260601180000 +0000" stop="20260601200000 +0000" channel="demo.tos">
-    <title lang="en">Sci-Fi Short Showcase</title>
-    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
+  <programme start="20260610200000 +0000" stop="20260610220000 +0000" channel="demo.bbb">
+    <title lang="en">Big Buck Bunny</title>
+    <sub-title lang="en">Open Movie</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) animated short produced by the Blender Foundation.</desc>
     <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-14</value></rating>
   </programme>
-  <programme start="20260601200000 +0000" stop="20260601220000 +0000" channel="demo.tos">
-    <title lang="en">Tears of Steel</title>
-    <sub-title lang="en">Project Mango</sub-title>
-    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-14</value></rating>
-  </programme>
-  <programme start="20260601220000 +0000" stop="20260602000000 +0000" channel="demo.tos">
-    <title lang="en">Sci-Fi Short Showcase</title>
-    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260610220000 +0000" stop="20260611000000 +0000" channel="demo.bbb">
+    <title lang="en">Blender Open Movie Showcase</title>
+    <desc lang="en">A selection of short films released by the Blender Foundation under Creative Commons.</desc>
+    <category lang="en">Animation</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
   <programme start="20260602000000 +0000" stop="20260602020000 +0000" channel="demo.tos">
@@ -1426,76 +1352,82 @@
     <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601000000 +0000" stop="20260601020000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Big Buck Bunny (Adaptive)</title>
-    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610000000 +0000" stop="20260610020000 +0000" channel="demo.tos">
+    <title lang="en">Tears of Steel</title>
+    <sub-title lang="en">Project Mango</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601020000 +0000" stop="20260601040000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Variant Ladder Demo</title>
-    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610020000 +0000" stop="20260610040000 +0000" channel="demo.tos">
+    <title lang="en">Sci-Fi Short Showcase</title>
+    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601040000 +0000" stop="20260601060000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Big Buck Bunny (Adaptive)</title>
-    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610040000 +0000" stop="20260610060000 +0000" channel="demo.tos">
+    <title lang="en">Tears of Steel</title>
+    <sub-title lang="en">Project Mango</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601060000 +0000" stop="20260601080000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Variant Ladder Demo</title>
-    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610060000 +0000" stop="20260610080000 +0000" channel="demo.tos">
+    <title lang="en">Sci-Fi Short Showcase</title>
+    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-Y</value></rating>
   </programme>
-  <programme start="20260601080000 +0000" stop="20260601100000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Big Buck Bunny (Adaptive)</title>
-    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610080000 +0000" stop="20260610100000 +0000" channel="demo.tos">
+    <title lang="en">Tears of Steel</title>
+    <sub-title lang="en">Project Mango</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-Y</value></rating>
   </programme>
-  <programme start="20260601100000 +0000" stop="20260601120000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Variant Ladder Demo</title>
-    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="demo.tos">
+    <title lang="en">Sci-Fi Short Showcase</title>
+    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601120000 +0000" stop="20260601140000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Big Buck Bunny (Adaptive)</title>
-    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610120000 +0000" stop="20260610140000 +0000" channel="demo.tos">
+    <title lang="en">Tears of Steel</title>
+    <sub-title lang="en">Project Mango</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601140000 +0000" stop="20260601160000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Variant Ladder Demo</title>
-    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610140000 +0000" stop="20260610160000 +0000" channel="demo.tos">
+    <title lang="en">Sci-Fi Short Showcase</title>
+    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601160000 +0000" stop="20260601180000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Big Buck Bunny (Adaptive)</title>
-    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610160000 +0000" stop="20260610180000 +0000" channel="demo.tos">
+    <title lang="en">Tears of Steel</title>
+    <sub-title lang="en">Project Mango</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601180000 +0000" stop="20260601200000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Variant Ladder Demo</title>
-    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610180000 +0000" stop="20260610200000 +0000" channel="demo.tos">
+    <title lang="en">Sci-Fi Short Showcase</title>
+    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-14</value></rating>
   </programme>
-  <programme start="20260601200000 +0000" stop="20260601220000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Big Buck Bunny (Adaptive)</title>
-    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610200000 +0000" stop="20260610220000 +0000" channel="demo.tos">
+    <title lang="en">Tears of Steel</title>
+    <sub-title lang="en">Project Mango</sub-title>
+    <desc lang="en">Creative Commons (CC-BY) science-fiction short by the Blender Foundation.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-14</value></rating>
   </programme>
-  <programme start="20260601220000 +0000" stop="20260602000000 +0000" channel="demo.bbb.alt">
-    <title lang="en">Variant Ladder Demo</title>
-    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610220000 +0000" stop="20260611000000 +0000" channel="demo.tos">
+    <title lang="en">Sci-Fi Short Showcase</title>
+    <desc lang="en">License-clear short film for verifying VOD playback and seeking.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
   <programme start="20260602000000 +0000" stop="20260602020000 +0000" channel="demo.bbb.alt">
@@ -2074,75 +2006,75 @@
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601000000 +0000" stop="20260601020000 +0000" channel="demo.tos.hd">
-    <title lang="en">Tears of Steel (HD)</title>
-    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-MA</value></rating>
-  </programme>
-  <programme start="20260601020000 +0000" stop="20260601040000 +0000" channel="demo.tos.hd">
-    <title lang="en">HD Adaptive Demo</title>
-    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
+  <programme start="20260610000000 +0000" stop="20260610020000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Big Buck Bunny (Adaptive)</title>
+    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601040000 +0000" stop="20260601060000 +0000" channel="demo.tos.hd">
-    <title lang="en">Tears of Steel (HD)</title>
-    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260610020000 +0000" stop="20260610040000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Variant Ladder Demo</title>
+    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
+    <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601060000 +0000" stop="20260601080000 +0000" channel="demo.tos.hd">
-    <title lang="en">HD Adaptive Demo</title>
-    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
+  <programme start="20260610040000 +0000" stop="20260610060000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Big Buck Bunny (Adaptive)</title>
+    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260610060000 +0000" stop="20260610080000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Variant Ladder Demo</title>
+    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-Y</value></rating>
   </programme>
-  <programme start="20260601080000 +0000" stop="20260601100000 +0000" channel="demo.tos.hd">
-    <title lang="en">Tears of Steel (HD)</title>
-    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260610080000 +0000" stop="20260610100000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Big Buck Bunny (Adaptive)</title>
+    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
+    <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-Y</value></rating>
   </programme>
-  <programme start="20260601100000 +0000" stop="20260601120000 +0000" channel="demo.tos.hd">
-    <title lang="en">HD Adaptive Demo</title>
-    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
+  <programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Variant Ladder Demo</title>
+    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601120000 +0000" stop="20260601140000 +0000" channel="demo.tos.hd">
-    <title lang="en">Tears of Steel (HD)</title>
-    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
-    <category lang="en">Movie</category>
-    <rating system="VCHIP"><value>TV-PG</value></rating>
-  </programme>
-  <programme start="20260601140000 +0000" stop="20260601160000 +0000" channel="demo.tos.hd">
-    <title lang="en">HD Adaptive Demo</title>
-    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
+  <programme start="20260610120000 +0000" stop="20260610140000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Big Buck Bunny (Adaptive)</title>
+    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601160000 +0000" stop="20260601180000 +0000" channel="demo.tos.hd">
-    <title lang="en">Tears of Steel (HD)</title>
-    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260610140000 +0000" stop="20260610160000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Variant Ladder Demo</title>
+    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
+    <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601180000 +0000" stop="20260601200000 +0000" channel="demo.tos.hd">
-    <title lang="en">HD Adaptive Demo</title>
-    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
+  <programme start="20260610160000 +0000" stop="20260610180000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Big Buck Bunny (Adaptive)</title>
+    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260610180000 +0000" stop="20260610200000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Variant Ladder Demo</title>
+    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-14</value></rating>
   </programme>
-  <programme start="20260601200000 +0000" stop="20260601220000 +0000" channel="demo.tos.hd">
-    <title lang="en">Tears of Steel (HD)</title>
-    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
-    <category lang="en">Movie</category>
+  <programme start="20260610200000 +0000" stop="20260610220000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Big Buck Bunny (Adaptive)</title>
+    <desc lang="en">Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.</desc>
+    <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-14</value></rating>
   </programme>
-  <programme start="20260601220000 +0000" stop="20260602000000 +0000" channel="demo.tos.hd">
-    <title lang="en">HD Adaptive Demo</title>
-    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
+  <programme start="20260610220000 +0000" stop="20260611000000 +0000" channel="demo.bbb.alt">
+    <title lang="en">Variant Ladder Demo</title>
+    <desc lang="en">Demonstrates multiple quality renditions within a single master playlist.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
@@ -2722,75 +2654,75 @@
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601000000 +0000" stop="20260601020000 +0000" channel="demo.live">
-    <title lang="en">Live Test Channel</title>
-    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
+  <programme start="20260610000000 +0000" stop="20260610020000 +0000" channel="demo.tos.hd">
+    <title lang="en">Tears of Steel (HD)</title>
+    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
+    <category lang="en">Movie</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260610020000 +0000" stop="20260610040000 +0000" channel="demo.tos.hd">
+    <title lang="en">HD Adaptive Demo</title>
+    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601020000 +0000" stop="20260601040000 +0000" channel="demo.live">
-    <title lang="en">Live Reference Loop</title>
-    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610040000 +0000" stop="20260610060000 +0000" channel="demo.tos.hd">
+    <title lang="en">Tears of Steel (HD)</title>
+    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
-  <programme start="20260601040000 +0000" stop="20260601060000 +0000" channel="demo.live">
-    <title lang="en">Live Test Channel</title>
-    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
-    <category lang="en">Technology</category>
-    <rating system="VCHIP"><value>TV-MA</value></rating>
-  </programme>
-  <programme start="20260601060000 +0000" stop="20260601080000 +0000" channel="demo.live">
-    <title lang="en">Live Reference Loop</title>
-    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
+  <programme start="20260610060000 +0000" stop="20260610080000 +0000" channel="demo.tos.hd">
+    <title lang="en">HD Adaptive Demo</title>
+    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-Y</value></rating>
   </programme>
-  <programme start="20260601080000 +0000" stop="20260601100000 +0000" channel="demo.live">
-    <title lang="en">Live Test Channel</title>
-    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610080000 +0000" stop="20260610100000 +0000" channel="demo.tos.hd">
+    <title lang="en">Tears of Steel (HD)</title>
+    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-Y</value></rating>
   </programme>
-  <programme start="20260601100000 +0000" stop="20260601120000 +0000" channel="demo.live">
-    <title lang="en">Live Reference Loop</title>
-    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
+  <programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="demo.tos.hd">
+    <title lang="en">HD Adaptive Demo</title>
+    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601120000 +0000" stop="20260601140000 +0000" channel="demo.live">
-    <title lang="en">Live Test Channel</title>
-    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
+  <programme start="20260610120000 +0000" stop="20260610140000 +0000" channel="demo.tos.hd">
+    <title lang="en">Tears of Steel (HD)</title>
+    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
+    <category lang="en">Movie</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260610140000 +0000" stop="20260610160000 +0000" channel="demo.tos.hd">
+    <title lang="en">HD Adaptive Demo</title>
+    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601140000 +0000" stop="20260601160000 +0000" channel="demo.live">
-    <title lang="en">Live Reference Loop</title>
-    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610160000 +0000" stop="20260610180000 +0000" channel="demo.tos.hd">
+    <title lang="en">Tears of Steel (HD)</title>
+    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-PG</value></rating>
   </programme>
-  <programme start="20260601160000 +0000" stop="20260601180000 +0000" channel="demo.live">
-    <title lang="en">Live Test Channel</title>
-    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
-    <category lang="en">Technology</category>
-    <rating system="VCHIP"><value>TV-PG</value></rating>
-  </programme>
-  <programme start="20260601180000 +0000" stop="20260601200000 +0000" channel="demo.live">
-    <title lang="en">Live Reference Loop</title>
-    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
+  <programme start="20260610180000 +0000" stop="20260610200000 +0000" channel="demo.tos.hd">
+    <title lang="en">HD Adaptive Demo</title>
+    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-14</value></rating>
   </programme>
-  <programme start="20260601200000 +0000" stop="20260601220000 +0000" channel="demo.live">
-    <title lang="en">Live Test Channel</title>
-    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
-    <category lang="en">Technology</category>
+  <programme start="20260610200000 +0000" stop="20260610220000 +0000" channel="demo.tos.hd">
+    <title lang="en">Tears of Steel (HD)</title>
+    <desc lang="en">High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.</desc>
+    <category lang="en">Movie</category>
     <rating system="VCHIP"><value>TV-14</value></rating>
   </programme>
-  <programme start="20260601220000 +0000" stop="20260602000000 +0000" channel="demo.live">
-    <title lang="en">Live Reference Loop</title>
-    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
+  <programme start="20260610220000 +0000" stop="20260611000000 +0000" channel="demo.tos.hd">
+    <title lang="en">HD Adaptive Demo</title>
+    <desc lang="en">Widescreen variant ladder for adaptive-bitrate testing.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>
@@ -3367,6 +3299,726 @@
   <programme start="20260609220000 +0000" stop="20260610000000 +0000" channel="demo.live">
     <title lang="en">Live Reference Loop</title>
     <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260610000000 +0000" stop="20260610020000 +0000" channel="demo.live">
+    <title lang="en">Live Test Channel</title>
+    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260610020000 +0000" stop="20260610040000 +0000" channel="demo.live">
+    <title lang="en">Live Reference Loop</title>
+    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260610040000 +0000" stop="20260610060000 +0000" channel="demo.live">
+    <title lang="en">Live Test Channel</title>
+    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260610060000 +0000" stop="20260610080000 +0000" channel="demo.live">
+    <title lang="en">Live Reference Loop</title>
+    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260610080000 +0000" stop="20260610100000 +0000" channel="demo.live">
+    <title lang="en">Live Test Channel</title>
+    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="demo.live">
+    <title lang="en">Live Reference Loop</title>
+    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260610120000 +0000" stop="20260610140000 +0000" channel="demo.live">
+    <title lang="en">Live Test Channel</title>
+    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260610140000 +0000" stop="20260610160000 +0000" channel="demo.live">
+    <title lang="en">Live Reference Loop</title>
+    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260610160000 +0000" stop="20260610180000 +0000" channel="demo.live">
+    <title lang="en">Live Test Channel</title>
+    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260610180000 +0000" stop="20260610200000 +0000" channel="demo.live">
+    <title lang="en">Live Reference Loop</title>
+    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260610200000 +0000" stop="20260610220000 +0000" channel="demo.live">
+    <title lang="en">Live Test Channel</title>
+    <desc lang="en">Continuous public HLS live test stream for verifying live playback.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260610220000 +0000" stop="20260611000000 +0000" channel="demo.live">
+    <title lang="en">Live Reference Loop</title>
+    <desc lang="en">24/7 reference live playout used for player and buffering tests.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260602000000 +0000" stop="20260602020000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260602020000 +0000" stop="20260602040000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260602040000 +0000" stop="20260602060000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260602060000 +0000" stop="20260602080000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260602080000 +0000" stop="20260602100000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260602100000 +0000" stop="20260602120000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260602120000 +0000" stop="20260602140000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260602140000 +0000" stop="20260602160000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260602160000 +0000" stop="20260602180000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260602180000 +0000" stop="20260602200000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260602200000 +0000" stop="20260602220000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260602220000 +0000" stop="20260603000000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260603000000 +0000" stop="20260603020000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260603020000 +0000" stop="20260603040000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260603040000 +0000" stop="20260603060000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260603060000 +0000" stop="20260603080000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260603080000 +0000" stop="20260603100000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260603100000 +0000" stop="20260603120000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260603120000 +0000" stop="20260603140000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260603140000 +0000" stop="20260603160000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260603160000 +0000" stop="20260603180000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260603180000 +0000" stop="20260603200000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260603200000 +0000" stop="20260603220000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260603220000 +0000" stop="20260604000000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260604000000 +0000" stop="20260604020000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260604020000 +0000" stop="20260604040000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260604040000 +0000" stop="20260604060000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260604060000 +0000" stop="20260604080000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260604080000 +0000" stop="20260604100000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260604100000 +0000" stop="20260604120000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260604120000 +0000" stop="20260604140000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260604140000 +0000" stop="20260604160000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260604160000 +0000" stop="20260604180000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260604180000 +0000" stop="20260604200000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260604200000 +0000" stop="20260604220000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260604220000 +0000" stop="20260605000000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260605000000 +0000" stop="20260605020000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260605020000 +0000" stop="20260605040000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260605040000 +0000" stop="20260605060000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260605060000 +0000" stop="20260605080000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260605080000 +0000" stop="20260605100000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260605100000 +0000" stop="20260605120000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260605120000 +0000" stop="20260605140000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260605160000 +0000" stop="20260605180000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260605200000 +0000" stop="20260605220000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260605220000 +0000" stop="20260606000000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260606020000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260606020000 +0000" stop="20260606040000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260606040000 +0000" stop="20260606060000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260606060000 +0000" stop="20260606080000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260606080000 +0000" stop="20260606100000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260606100000 +0000" stop="20260606120000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260606120000 +0000" stop="20260606140000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606160000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260606160000 +0000" stop="20260606180000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260606180000 +0000" stop="20260606200000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260606200000 +0000" stop="20260606220000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260606220000 +0000" stop="20260607000000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260607000000 +0000" stop="20260607020000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260607020000 +0000" stop="20260607040000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260607040000 +0000" stop="20260607060000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260607060000 +0000" stop="20260607080000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260607080000 +0000" stop="20260607100000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260607160000 +0000" stop="20260607180000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260607180000 +0000" stop="20260607200000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260607200000 +0000" stop="20260607220000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260607220000 +0000" stop="20260608000000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260608000000 +0000" stop="20260608020000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260608020000 +0000" stop="20260608040000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260608040000 +0000" stop="20260608060000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260608060000 +0000" stop="20260608080000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260608080000 +0000" stop="20260608100000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260608100000 +0000" stop="20260608120000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260608120000 +0000" stop="20260608140000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260608140000 +0000" stop="20260608160000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260608160000 +0000" stop="20260608180000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260608180000 +0000" stop="20260608200000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260608200000 +0000" stop="20260608220000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260608220000 +0000" stop="20260609000000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260609000000 +0000" stop="20260609020000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260609020000 +0000" stop="20260609040000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260609040000 +0000" stop="20260609060000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260609060000 +0000" stop="20260609080000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260609080000 +0000" stop="20260609100000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260609100000 +0000" stop="20260609120000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260609120000 +0000" stop="20260609140000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260609140000 +0000" stop="20260609160000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260609160000 +0000" stop="20260609180000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260609180000 +0000" stop="20260609200000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260609200000 +0000" stop="20260609220000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260609220000 +0000" stop="20260610000000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260610000000 +0000" stop="20260610020000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260610020000 +0000" stop="20260610040000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260610040000 +0000" stop="20260610060000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-MA</value></rating>
+  </programme>
+  <programme start="20260610060000 +0000" stop="20260610080000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260610080000 +0000" stop="20260610100000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-Y</value></rating>
+  </programme>
+  <programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260610120000 +0000" stop="20260610140000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260610140000 +0000" stop="20260610160000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260610160000 +0000" stop="20260610180000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-PG</value></rating>
+  </programme>
+  <programme start="20260610180000 +0000" stop="20260610200000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260610200000 +0000" stop="20260610220000 +0000" channel="demo.cc608">
+    <title lang="en">CEA-608 Captions Test</title>
+    <desc lang="en">Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.</desc>
+    <category lang="en">Technology</category>
+    <rating system="VCHIP"><value>TV-14</value></rating>
+  </programme>
+  <programme start="20260610220000 +0000" stop="20260611000000 +0000" channel="demo.cc608">
+    <title lang="en">Closed Captions Reference</title>
+    <desc lang="en">In-band 608 caption sample for testing the closed-captioning toggle.</desc>
     <category lang="en">Technology</category>
     <rating system="VCHIP"><value>TV-MA</value></rating>
   </programme>

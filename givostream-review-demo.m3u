@@ -6,6 +6,7 @@
 # Sources:
 #   - Mux public test streams (test-streams.mux.dev) — Blender open movies, CC-BY
 #   - Unified Streaming public demo streams (demo.unified-streaming.com)
+#   - Longtail/JWPlayer public test stream (playertest.longtailvideo.com) — CEA-608 in-band captions
 #
 #EXTINF:-1 tvg-id="demo.bbb" tvg-name="Big Buck Bunny" group-title="Test — VOD",Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
@@ -17,3 +18,5 @@ https://test-streams.mux.dev/pts_shift/master.m3u8
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-id="demo.live" tvg-name="Live Test Channel" group-title="Test — Live",Live Test Channel
 https://demo.unified-streaming.com/k8s/live/scte35.isml/.m3u8
+#EXTINF:-1 tvg-id="demo.cc608" tvg-name="CEA-608 Captions Test" group-title="Test — Captions",CEA-608 Captions Test
+https://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8

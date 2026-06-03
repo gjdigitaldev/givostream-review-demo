@@ -27,6 +27,7 @@ All streams are public, license-clear test assets — nothing rights-encumbered:
 | Big Buck Bunny (Multi-Bitrate) | Mux public test stream (Blender, CC-BY) |
 | Tears of Steel (HD) | Unified Streaming public demo (Blender, CC-BY) |
 | Live Test Channel | Unified Streaming public live demo |
+| CEA-608 Captions Test | Longtail/JWPlayer public test stream — in-band CEA-608 captions |
 
 ## The EPG auto-refreshes daily
 

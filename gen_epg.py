@@ -29,6 +29,7 @@ channels = [
     ("demo.bbb.alt", ["Big Buck Bunny (Multi-Bitrate)", "BBB MB"]),
     ("demo.tos.hd",  ["Tears of Steel (HD)", "ToS HD"]),
     ("demo.live",    ["Live Test Channel", "Live"]),
+    ("demo.cc608",   ["CEA-608 Captions Test", "CC Test"]),
 ]
 
 # (title, sub_title|None, desc, category)
@@ -62,6 +63,12 @@ pools = {
          "Continuous public HLS live test stream for verifying live playback.", "Technology"),
         ("Live Reference Loop", None,
          "24/7 reference live playout used for player and buffering tests.", "Technology"),
+    ],
+    "demo.cc608": [
+        ("CEA-608 Captions Test", None,
+         "Public HLS test stream with embedded CEA-608 closed captions for verifying caption display.", "Technology"),
+        ("Closed Captions Reference", None,
+         "In-band 608 caption sample for testing the closed-captioning toggle.", "Technology"),
     ],
 }
 
