@@ -16,4 +16,4 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_exam
 #EXTINF:-1 tvg-id="demo.tos.hd" tvg-name="Tears of Steel (HD)" group-title="Test — Adaptive",Tears of Steel (HD)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-id="demo.live" tvg-name="Live Test Channel" group-title="Test — Live",Live Test Channel
-https://demo.unified-streaming.com/k8s/live/scte35.isml/.m3u8
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
