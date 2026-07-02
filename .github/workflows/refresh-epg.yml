@@ -1,7 +1,7 @@
 name: Refresh demo EPG
 
 # Regenerates the date-relative demo EPG every day so the guide stays
-# populated (yesterday -> +8 days) whenever an App Store reviewer tests,
+# populated (yesterday -> end of 2026) whenever an App Store reviewer tests,
 # no matter how long after submission that happens.
 
 on:
