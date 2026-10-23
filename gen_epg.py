@@ -34,6 +34,7 @@ channels = [
     ("demo.bbb.alt", ["Big Buck Bunny (Multi-Bitrate)", "BBB MB"]),
     ("demo.tos.hd",  ["Tears of Steel (HD)", "ToS HD"]),
     ("demo.live",    ["Live Test Channel", "Live"]),
+    ("demo.live.backup", ["Live Test Channel 2", "Live 2"]),
 ]
 
 # (title, sub_title|None, desc, category)
@@ -64,9 +65,15 @@ pools = {
     ],
     "demo.live": [
         ("Live Test Channel", None,
-         "Continuous public HLS live test stream for verifying live playback.", "Technology"),
+         "Big Buck Bunny (Blender Foundation, CC BY 3.0) as a continuous live stream for testing live pause and rewind.", "Technology"),
         ("Live Reference Loop", None,
-         "24/7 reference live playout used for player and buffering tests.", "Technology"),
+         "24/7 live loop of a Creative Commons open movie, for player and buffering tests.", "Technology"),
+    ],
+    "demo.live.backup": [
+        ("Live Test Channel 2", None,
+         "Second public HLS live test stream (Unified Streaming demo) for verifying live playback.", "Technology"),
+        ("Live Reference Loop 2", None,
+         "Public reference live playout used for player and buffering tests.", "Technology"),
     ],
 }
 

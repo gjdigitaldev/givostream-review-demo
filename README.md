@@ -2,19 +2,19 @@
 
 Public, license-clear demo content used **only** to let an App Store reviewer
 exercise GiVo Stream's generic player during review. GiVo Stream is a
-general-purpose IPTV/M3U player and **bundles no content of its own** — these
+media player and **bundles no content of its own** — these
 files are not shipped in the app, are not visible to end users, and are
 referenced only from the **App Review Information** notes.
 
 ## Raw URLs (paste into the App Review notes)
 
 - **M3U playlist:**
-  `https://raw.githubusercontent.com/gmoney0026/givostream-review-demo/main/givostream-review-demo.m3u`
+  `https://raw.githubusercontent.com/gjdigitaldev/givostream-review-demo/main/givostream-review-demo.m3u`
 - **EPG (XMLTV):**
-  `https://raw.githubusercontent.com/gmoney0026/givostream-review-demo/main/givostream-demo-epg.xml`
+  `https://raw.githubusercontent.com/gjdigitaldev/givostream-review-demo/main/givostream-demo-epg.xml`
 
 In the app: add a playlist of type **M3U & EPG**, paste the M3U URL into the
-playlist field and the EPG URL into the guide field, then load it.
+playlist field and the EPG URL into the guide field, then load it. Turn on the playlist's "Include Movies & Series" switch to see the two VOD titles in VOD.
 
 ## What's in the playlist
 
@@ -22,11 +22,12 @@ All streams are public, license-clear test assets — nothing rights-encumbered:
 
 | Channel | Source |
 |---|---|
-| Big Buck Bunny | Mux public test stream (Blender, CC-BY) |
-| Tears of Steel | Mux public test stream (Blender, CC-BY) |
+| Big Buck Bunny (VOD) | Mux public test stream (Blender, CC-BY) |
+| Tears of Steel (VOD) | Mux public test stream (Blender, CC-BY) |
 | Big Buck Bunny (Multi-Bitrate) | Mux public test stream (Blender, CC-BY) |
 | Tears of Steel (HD) | Unified Streaming public demo (Blender, CC-BY) |
-| Live Test Channel | Unified Streaming public live demo |
+| Live Test Channel | GiVo Stream review live channel: Big Buck Bunny (Blender, CC-BY 3.0) looped as a live HLS stream (givo-review-live.givostream.workers.dev) |
+| Live Test Channel 2 | Unified Streaming public live demo |
 
 ## The EPG auto-refreshes daily
 
