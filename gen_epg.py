@@ -31,8 +31,8 @@ SLOT_HOURS = 2        # 12 programmes per channel per day
 channels = [
     ("demo.bbb",     ["Big Buck Bunny", "BBB"]),
     ("demo.tos",     ["Tears of Steel", "ToS"]),
-    ("demo.bbb.alt", ["Big Buck Bunny (Multi-Bitrate)", "BBB MB"]),
-    ("demo.tos.hd",  ["Tears of Steel (HD)", "ToS HD"]),
+    ("demo.bbb.alt", ["Apple BipBop (Multi-Bitrate)", "BipBop MB"]),
+    ("demo.bipbop.fmp4", ["Apple BipBop (fMP4)", "BipBop fMP4"]),
     ("demo.live",    ["Live Test Channel", "Live"]),
     ("demo.live.backup", ["Live Test Channel 2", "Live 2"]),
 ]
@@ -52,16 +52,16 @@ pools = {
          "License-clear short film for verifying VOD playback and seeking.", "Movie"),
     ],
     "demo.bbb.alt": [
-        ("Big Buck Bunny (Adaptive)", None,
-         "Multi-bitrate Big Buck Bunny for verifying adaptive-bitrate (ABR) switching across renditions.", "Technology"),
+        ("Apple BipBop (Multi-Bitrate)", None,
+         "Apple's MPEG-TS HLS example stream for verifying adaptive-bitrate (ABR) switching across renditions.", "Technology"),
         ("Variant Ladder Demo", None,
          "Demonstrates multiple quality renditions within a single master playlist.", "Technology"),
     ],
-    "demo.tos.hd": [
-        ("Tears of Steel (HD)", None,
-         "High-definition multi-bitrate Tears of Steel for adaptive-bitrate playback tests.", "Movie"),
-        ("HD Adaptive Demo", None,
-         "Widescreen variant ladder for adaptive-bitrate testing.", "Technology"),
+    "demo.bipbop.fmp4": [
+        ("Apple BipBop (fMP4)", None,
+         "Apple's fragmented-MP4 HLS example stream for verifying adaptive-bitrate playback.", "Technology"),
+        ("fMP4 Variant Ladder Demo", None,
+         "Multiple quality renditions in fragmented MP4 within a single master playlist.", "Technology"),
     ],
     "demo.live": [
         ("Live Test Channel", None,
@@ -70,10 +70,10 @@ pools = {
          "24/7 live loop of a Creative Commons open movie, for player and buffering tests.", "Technology"),
     ],
     "demo.live.backup": [
-        ("Live Test Channel 2", None,
-         "Second public HLS live test stream (Unified Streaming demo) for verifying live playback.", "Technology"),
+        ("Tears of Steel", "Project Mango",
+         "Tears of Steel (Blender Foundation, CC BY 3.0) as a continuous live stream for testing live pause and rewind.", "Movie"),
         ("Live Reference Loop 2", None,
-         "Public reference live playout used for player and buffering tests.", "Technology"),
+         "24/7 live loop of a Creative Commons open movie, for player and buffering tests.", "Technology"),
     ],
 }
 

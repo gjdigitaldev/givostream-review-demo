@@ -24,10 +24,10 @@ All streams are public, license-clear test assets — nothing rights-encumbered:
 |---|---|
 | Big Buck Bunny (VOD) | Mux public test stream (Blender, CC-BY) |
 | Tears of Steel (VOD) | Mux public test stream (Blender, CC-BY) |
-| Big Buck Bunny (Multi-Bitrate) | Mux public test stream (Blender, CC-BY) |
-| Tears of Steel (HD) | Unified Streaming public demo (Blender, CC-BY) |
+| Apple BipBop (Multi-Bitrate) | Apple HLS example stream (devstreaming-cdn.apple.com) |
+| Apple BipBop (fMP4) | Apple HLS example stream (devstreaming-cdn.apple.com) |
 | Live Test Channel | GiVo Stream review live channel: Big Buck Bunny (Blender, CC-BY 3.0) looped as a live HLS stream (givo-review-live.givostream.workers.dev) |
-| Live Test Channel 2 | Unified Streaming public live demo |
+| Live Test Channel 2 | GiVo Stream review live channel 2: Tears of Steel (Blender, CC-BY 3.0) looped as a live HLS stream |
 
 ## The EPG auto-refreshes daily
 
