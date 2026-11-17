@@ -8,9 +8,10 @@ the Parental Control feature has real values to act on:
     09:00-18:00  TV-PG
     18:00-22:00  TV-14
     22:00-05:00  TV-MA   (post-watershed; a clear target for parental lock)
-The guide window spans yesterday through end-of-2026 (END_DATE, 9-day floor)
-so it stays populated regardless of exactly when the app is reviewed —
-even if the daily refresh Action stalls.
+The guide window always spans yesterday through 60 days ahead (WINDOW_DAYS),
+so it stays populated regardless of exactly when the app is reviewed — even
+if the daily refresh Action stalls for weeks — and never depends on a fixed
+end date.
 
 Output path is repo-relative so the daily GitHub Action (and local runs)
 write the EPG into the repo root for hosting via raw.githubusercontent.com.
@@ -21,11 +22,11 @@ from xml.sax.saxutils import escape
 UTC = dt.timezone.utc
 OUT = "givostream-demo-epg.xml"
 
-# Guide window: yesterday through END_DATE (belt-and-braces so the guide
-# stays populated even if the daily refresh Action ever stalls), with a
-# 9-day floor so the generator still behaves past END_DATE.
-END_DATE = dt.date(2027, 1, 1)
-N_DAYS = max(9, (END_DATE - (dt.datetime.now(UTC).date() - dt.timedelta(days=1))).days)
+# Guide window: a rolling yesterday -> +60 days (belt-and-braces so the guide
+# stays populated even if the daily refresh Action ever stalls). No fixed end
+# date: the old END_DATE (2027-01-01) would have shrunk the window to 9 days.
+WINDOW_DAYS = 60
+N_DAYS = WINDOW_DAYS + 1   # yesterday + today + the days ahead
 SLOT_HOURS = 2        # 12 programmes per channel per day
 
 channels = [
